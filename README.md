@@ -26,7 +26,7 @@ countries dropdown for Americas regions and etc.
     $ user-registration-app/web> npm start
     ```
 
-## Leftover part of assignment
+## Leftover part
 * Test cases not done
 
 ## Challenges faced
