@@ -30,7 +30,7 @@ countries dropdown for Americas regions and etc.
 * Test cases not done
 
 ## Challenges faced
-* Autocomplete some not supporting, which still need to be fixed.
+* Autocomplete not supporting, which still need to be fixed.
 
 ## What could be improved
 * API error handling, to show in modal window.
